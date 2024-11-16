@@ -18,3 +18,5 @@ There are two implementations: Threaded and Async<br>
 We have made two executables which can be run on the command line<br>
 They each accept two arguments: host and port details<br>
 The log would be printed on the console<br>
+
+1. ./ThreadedProxySetup <server_address> <server_port
