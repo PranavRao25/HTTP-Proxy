@@ -19,4 +19,5 @@ We have made two executables which can be run on the command line<br>
 They each accept two arguments: host and port details<br>
 The log would be printed on the console<br>
 
-1. ./ThreadedProxySetup <server_address> <server_port
+1. ./Threaded/ThreadedProxySetup <server_address> <server_port>
+2. ./Async/AsyncProxySetup <server_address> <server_port>
